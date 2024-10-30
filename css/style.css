@@ -5,6 +5,6 @@
     background-color: green;
     background-image: url(../img/donut.png), url(../img/grass.png), url(../img/hedgehog.png), url(../img/home.jpg), url(../img/lamp.png);
     background-repeat: repeat-y, repeat-x, repeat-y, no-repeat, repeat-x;
-    background-size: 100px 100px, 100px 100px, 100px 100px, 250px 250px, 100px 100px;
+    background-size: 20px 20px, 100px 100px, 20px 20px, 250px 250px, 20px 20px;
     background-position: right, bottom, left, center, top;
 }
